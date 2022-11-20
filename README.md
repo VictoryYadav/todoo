@@ -1,2 +1,2 @@
-# todoo
-my todo list
+# common
+common for all project
